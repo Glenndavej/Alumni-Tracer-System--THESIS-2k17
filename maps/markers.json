@@ -1,0 +1,14 @@
+markers = [
+   {
+     "name": "Roxas City Chapter",
+     "url": "",
+     "lat": 11.58528,
+     "lng": 122.75111
+   },
+   {
+    "name": "Manila City Chapter",
+     "url": "",
+     "lat": 14.599512,
+     "lng": 120.984222
+   }
+];
